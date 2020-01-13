@@ -1,0 +1,9 @@
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\MinGuoToYear\MinGuoToYear\MinGuoToYear\bin\Debug\MinGuoToYear.exe.config
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\MinGuoToYear\MinGuoToYear\MinGuoToYear\bin\Debug\MinGuoToYear.exe
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\MinGuoToYear\MinGuoToYear\MinGuoToYear\bin\Debug\MinGuoToYear.pdb
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\MinGuoToYear\MinGuoToYear\MinGuoToYear\obj\Debug\MinGuoToYear.csprojResolveAssemblyReference.cache
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\MinGuoToYear\MinGuoToYear\MinGuoToYear\obj\Debug\MinGuoToYear.Form1.resources
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\MinGuoToYear\MinGuoToYear\MinGuoToYear\obj\Debug\MinGuoToYear.Properties.Resources.resources
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\MinGuoToYear\MinGuoToYear\MinGuoToYear\obj\Debug\MinGuoToYear.csproj.GenerateResource.Cache
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\MinGuoToYear\MinGuoToYear\MinGuoToYear\obj\Debug\MinGuoToYear.exe
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\MinGuoToYear\MinGuoToYear\MinGuoToYear\obj\Debug\MinGuoToYear.pdb
