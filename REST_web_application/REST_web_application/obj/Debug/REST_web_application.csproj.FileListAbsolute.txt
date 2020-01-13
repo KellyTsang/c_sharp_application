@@ -1,0 +1,9 @@
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\REST_web_application\REST_web_application\bin\Debug\REST_web_application.exe.config
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\REST_web_application\REST_web_application\bin\Debug\REST_web_application.exe
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\REST_web_application\REST_web_application\bin\Debug\REST_web_application.pdb
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\REST_web_application\REST_web_application\obj\Debug\REST_web_application.csprojResolveAssemblyReference.cache
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\REST_web_application\REST_web_application\obj\Debug\REST_web_application.Properties.Resources.resources
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\REST_web_application\REST_web_application\obj\Debug\REST_web_application.csproj.GenerateResource.Cache
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\REST_web_application\REST_web_application\obj\Debug\REST_web_application.exe
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\REST_web_application\REST_web_application\obj\Debug\REST_web_application.pdb
+C:\Users\kellyt\Desktop\backup_Desktop\miniProject\REST_web_application\REST_web_application\obj\Debug\REST_web_application.Form1.resources
